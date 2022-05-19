@@ -8,4 +8,9 @@ use Illuminate\Database\Eloquent\Model;
 class ApplicationForm extends Model
 {
     use HasFactory;
+
+    public function jobPosition()
+    {
+        return $this->belongsTo(JobPosition::class);
+    }
 }

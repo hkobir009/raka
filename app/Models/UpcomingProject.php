@@ -8,4 +8,9 @@ use Illuminate\Database\Eloquent\Model;
 class UpcomingProject extends Model
 {
     use HasFactory;
+
+    public function post()
+    {
+        return $this->belongsTo(Project::class);
+    }
 }
