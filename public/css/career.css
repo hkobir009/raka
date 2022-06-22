@@ -1,0 +1,127 @@
+
+/*
+               AA              ZZZZZZZZZZZZZZZ    IIIIIIIIIIIIIIII        LL               IIIIIIIIIIIIIIIIIII     NNNN        NN
+              A  A                        ZZ            II               LL                        II              NN NN       NN
+             A    A                     ZZ              II               LL                        II              NN  NN      NN
+            A      A                  ZZ                II               LL                        II              NN   NN     NN
+           A        A               ZZ                  II               LL                        II              NN    NN    NN
+          A AAAAAAAA A            ZZ                    II               LL                        II              NN     NN   NN
+         A            A         ZZ                      II               LL                        II              NN      NN  NN
+        A              A      ZZ                        II               LL                        II              NN       NN NN
+       A                A   ZZZZZZZZZZZZZZZ      IIIIIIIIIIIIIIII        LLLLLLLLLLLL     IIIIIIIIIIIIIIIIIIII     NN        NNNN
+
+
+
+
+Author Profile
+````````````````
+COMPANY NAME    : AZILIN - Developed to create
+PHONE           : +880 1858 672306
+MAIL            : start@azilin.com.bd
+WEB             : https://azilin.com.bd
+OFFICE ADDRESS  : JABBAR PARA, VAGULPUR, PARBOTIPUR, DINAJPUR, RONGPUR, BANGLADESH
+CEO & FOUNDER   : MUHAMMAD NAIM BABU
+SUPPORT	        : support@azilin.com.bd
+WHATSAPP        : +880 1858 672306
+*/
+
+
+.career{
+  text-align: center;
+  background-color: #50742A;
+  padding: 5px 0px;
+  margin:5px 0px;
+  color: white;
+  text-transform: uppercase;
+}
+
+.search-section{
+  padding: 20px 0px;
+  background-color: #F2EEEE;
+
+}
+
+.job-type{
+  margin-top: 30px;
+  width: 50%;
+}
+
+.button1{
+  padding: 0px 40px;
+  background-color:#1A317C;
+  color: white;
+  border:none;
+  margin-left: 50px;
+}
+
+.recruitment{
+  display: flex;
+  justify-content: space-around;
+}
+
+.date{
+  display: flex;
+}
+
+.border1px{
+  border-bottom: 1px solid #000000;
+  width: 100%;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.job{
+  margin-bottom: 0px;
+}
+
+.recruitment{
+  margin-top:50px;
+}
+
+.button2{
+  padding: 10px 30px;
+  background-color: #00C851;
+  color: white;
+  font-size: 16px;
+  border:none;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.job-section{
+  margin:50px 0px;
+}
+
+.backside{
+  display: none;
+}
+
+.section-title{
+  color: #50742A;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 50px 0px;
+  padding-top: 50px;
+}
+
+#team{
+  background-color: #EEEEEE;
+}
+
+.img-fluid{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.card{
+  margin: 100px 0px;
+}
+
+#edetailseng{
+  font-size: 12px;
+}
+
+#enameeng{
+  font-size: 22px;
+}

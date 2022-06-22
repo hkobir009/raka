@@ -21,7 +21,8 @@ return new class extends Migration
             $table->string('subject')->nullable();
             $table->string('email')->nullable();
             $table->text('message')->nullable();
-            $table->file('pdf_file');
+            $table->string('file_name');
+            $table->string('file_type');
             $table->timestamps();
         });
     }
